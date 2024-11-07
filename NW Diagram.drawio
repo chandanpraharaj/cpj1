@@ -32,6 +32,9 @@
         <mxCell id="bLrstx7oAV7xhixI29AM-105" value="Webasto-2.eu10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bLrstx7oAV7xhixI29AM-6">
           <mxGeometry x="51.01999999999995" y="100" width="137.95" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="bLrstx7oAV7xhixI29AM-113" value="" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=SAP_Datasphere" vertex="1" parent="bLrstx7oAV7xhixI29AM-6">
+          <mxGeometry y="-10" width="50" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="bLrstx7oAV7xhixI29AM-8" value="CORPORATE NETWORK" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=14;fontStyle=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="-160" width="190" height="30" as="geometry" />
         </mxCell>
@@ -77,6 +80,9 @@
         </mxCell>
         <mxCell id="bLrstx7oAV7xhixI29AM-106" value="Webasto-1.eu10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bLrstx7oAV7xhixI29AM-31">
           <mxGeometry x="35.02999999999997" y="90" width="137.95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bLrstx7oAV7xhixI29AM-114" value="" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=SAP_Datasphere" vertex="1" parent="bLrstx7oAV7xhixI29AM-31">
+          <mxGeometry y="-10" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bLrstx7oAV7xhixI29AM-36" value="INTERNET" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=14;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="570" width="90" height="30" as="geometry" />
