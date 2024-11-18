@@ -54,7 +54,7 @@
         <mxCell id="bLrstx7oAV7xhixI29AM-22" value="" style="endArrow=none;html=1;strokeColor=#5B738B;bendable=1;rounded=0;endFill=0;endSize=4;strokeWidth=3;startSize=4;startArrow=none;startFill=0;jumpStyle=gap;" parent="1" source="bLrstx7oAV7xhixI29AM-63" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-210" y="560" as="sourcePoint" />
-            <mxPoint x="1120" y="560" as="targetPoint" />
+            <mxPoint x="1570" y="560" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -260,7 +260,7 @@
         <mxCell id="-TzDsh0TMZtZClCxq-xT-9" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#01A88D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.application_discovery_service_aws_discovery_agent;" vertex="1" parent="-TzDsh0TMZtZClCxq-xT-5">
           <mxGeometry x="30" y="15" width="24.76" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-TzDsh0TMZtZClCxq-xT-16" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="-TzDsh0TMZtZClCxq-xT-16" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1030" y="170" width="230" height="210" as="geometry" />
         </mxCell>
         <mxCell id="-TzDsh0TMZtZClCxq-xT-10" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" connectable="0" parent="-TzDsh0TMZtZClCxq-xT-16">
@@ -272,8 +272,8 @@
         <mxCell id="-TzDsh0TMZtZClCxq-xT-15" value="SCC PRD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="-TzDsh0TMZtZClCxq-xT-16">
           <mxGeometry x="60" y="80" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-TzDsh0TMZtZClCxq-xT-18" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1290" y="170" width="230" height="210" as="geometry" />
+        <mxCell id="-TzDsh0TMZtZClCxq-xT-18" value="" style="group;rounded=1;strokeColor=default;strokeWidth=2;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1300" y="170" width="230" height="210" as="geometry" />
         </mxCell>
         <mxCell id="-TzDsh0TMZtZClCxq-xT-19" value="" style="group;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" connectable="0" parent="-TzDsh0TMZtZClCxq-xT-18">
           <mxGeometry width="230" height="210" as="geometry" />
@@ -283,6 +283,12 @@
         </mxCell>
         <mxCell id="-TzDsh0TMZtZClCxq-xT-21" value="SCC DEV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="-TzDsh0TMZtZClCxq-xT-18">
           <mxGeometry x="60" y="80" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-TzDsh0TMZtZClCxq-xT-23" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.proxy_server;" vertex="1" parent="1">
+          <mxGeometry x="1360.88" y="491" width="39.1" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="-TzDsh0TMZtZClCxq-xT-24" value="Gateway Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="461" width="137.95" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
